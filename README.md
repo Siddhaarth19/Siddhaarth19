@@ -2,7 +2,7 @@
 
 >To run the code you have to follow the 2 step:
 
-**Step-I: Install the libraries**  
+## **Step-I: Install the libraries**  
 
 >This project run with the strong support of the libraries mentioned in the code.
 >The simple way of installing the libraries is to go to commmand prompt on your desktop and 
@@ -12,9 +12,9 @@
 
 ex:``` pip install pyjokes  ```
 
-Type the command to install the required libraries and press enter.
-This will do the work of installing.
+>Type the command to install the required libraries and press enter.
+>This will do the work of installing.
 
-**Step-II: Run the code in your command prompt or any python IDE**    
+## **Step-II: Run the code in your command prompt or any python IDE**    
 
 >The VA will take the voice input and gives response through audio and also in text form.
